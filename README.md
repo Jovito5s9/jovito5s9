@@ -1,6 +1,10 @@
 # Olá, me chamo Jovito 👋
 
-## Bem-vindo ao meu perfil GitHub
+#### Bem-vindo ao meu perfil GitHub
+
+## Sobre mim
+
+Sou estagiário na área de Automação e IA, ultimamente venho aprendendo na prática tanto Back-end quanto Front-end, afim a estruturar e desenvolver sistemas cada vez mais completos, funcionais e seguros.
 
 ---
 
@@ -15,6 +19,8 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" height="50" alt="Vercel" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50" alt="Ubuntu" />
+  <img loading="lazy" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" width="50" height="50" alt="Ubuntu" />
+  
 </p>
 
 ---
@@ -43,6 +49,8 @@
 
 <p align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovito5s9&layout=compact&langs_count=7&theme=midnight-purple" />
+  <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=jovito5s9&background=000000&border=EBEBEB&sideNums=C600FF&sideLabels=B100E3&dates=5000D7&currStreakLabel=2AFF00E6&currStreakNum=2AFF00E6&ring=00AE0C&fire=1CA900E6" alt="GitHub Streak" />
+  
 </p>
 
 ---
