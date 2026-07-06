@@ -50,6 +50,8 @@ Atualmente trabalho com Python, FastAPI, PostgreSQL, Next.js e ferramentas de au
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
 </p>
 
+<!--
+
 ---
 
 ## Estatísticas
@@ -59,6 +61,8 @@ Atualmente trabalho com Python, FastAPI, PostgreSQL, Next.js e ferramentas de au
   <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=jovito5s9&background=000000&border=EBEBEB&sideNums=C600FF&sideLabels=B100E3&dates=5000D7&currStreakLabel=2AFF00E6&currStreakNum=2AFF00E6&ring=00AE0C&fire=1CA900E6" alt="GitHub Streak" />
   
 </p>
+
+-->
 
 ---
 
